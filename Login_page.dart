@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
         accentColor: Color.fromRGBO(209, 28, 121, 1.0),
         primaryColor: Color.fromRGBO(251, 177, 21, 1.0),
       ),
-      home: LoginPage(),
+          home: LoginPage(),
     );
   }
 }
